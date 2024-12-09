@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Celestia"
             }
+          },
+          {
+            "id": "a0b70399be8d0ffd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -156,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,6 +185,8 @@
   },
   "active": "d544c4926b245b7d",
   "lastOpenFiles": [
+    "Networks, Services & Tools/chihuahua.md",
+    "Networks, Services & Tools/Celestia.md",
     "hidden-assets/icons/docs-icon-15px.svg",
     "hidden-assets/icons/docs-icon (Kopie).svg",
     "hidden-assets/icons/Nicht bestätigt 961938.crdownload",
@@ -186,10 +198,7 @@
     "hidden-assets/icons/telegram-icon-15px.svg",
     "hidden-assets/icons/telegram-icon (Kopie).svg",
     "hidden-assets/icons/medium-icon-15px.svg",
-    "hidden-assets/icons/medium-icon (Kopie).svg",
     "hidden-assets/icons",
-    "Networks, Services & Tools/chihuahua.md",
-    "Networks, Services & Tools/Celestia.md",
     "hidden-assets/svg/Nicht bestätigt 268654.crdownload",
     "hidden-assets/svg/medium-iconsvg",
     "hidden-assets/svg/Nicht bestätigt 718039.crdownload",

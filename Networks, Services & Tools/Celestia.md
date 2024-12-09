@@ -9,19 +9,34 @@
 | [![www](../hidden-assets/icons/website-icon-15px.svg)](https://celestia.org) | [![docs](../hidden-assets/icons/docs-icon-15px.svg)](https://celestia.org/learn/) | [![x-icon-15px](../hidden-assets/icons/x-icon-15px.svg)](https://twitter.com/CelestiaOrg) | [![github-icon-15px](../hidden-assets/icons/github-icon-15px.svg)](https://github.com/celestiaorg/celestia-node) | [![discord-icon-15px-15px](../hidden-assets/icons/discord-icon-15px.svg)]() | [![telegram-icon-15px.svg](../hidden-assets/icons/telegram-icon-15px.svg)](https://t.me/CelestiaCommunity) | [![medium-icon-15px.svg](../hidden-assets/icons/medium-icon-15px.svg)](https://blog.celestia.org/) |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 
-
-
 ## Network
 
-### Onchain Metrics
+### Metrics
+
+| **Network Information** | Chain ID             |     |
+| ----------------------- | -------------------- | --- |
+|                         | Latest Version Tag   |     |
+|                         | WASM Support         |     |
+| **Performance Metrics** | Block Time           |     |
+|                         | Total Transactions   |     |
+| **Economic Metrics**    | Inflation Rate       |     |
+|                         | Staking APR          |     |
+|                         | Bonded Tokens        |     |
+|                         | Total Supply         |     |
+| **Community Metrics**   | Community Pool       |     |
+|                         | Community Pool Value |     |
+|                         | Unique Delegators    |     |
+
+
+
+
+### Public Endpoints
 
 <NetworkMetrics
   network="celestia"
   repoUrl="celestiaorg/celestia-node"
   coingeckoID="celestia"
-/>
-
-### Public Endpoints
+/
 
 <APITables columns={columns} rows={rows} />
 ### Seed Nodes
