@@ -7,6 +7,6 @@
   ],
   "livePreview": true,
   "strictLineBreaks": true,
-  "foldHeading": false,
-  "foldIndent": false
+  "foldHeading": true,
+  "foldIndent": true
 }
