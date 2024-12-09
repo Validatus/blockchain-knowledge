@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks, Services & Tools/celestia.mdx",
-                "mode": "source",
+                "file": "Networks, Services & Tools/Celestia.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "celestia"
+              "title": "Celestia"
             }
           }
         ]
@@ -139,14 +139,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks, Services & Tools/celestia.mdx"
+                "file": "Networks, Services & Tools/Celestia.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of celestia"
+              "title": "Outline of Celestia"
+            }
+          },
+          {
+            "id": "ffea8b716a2d07dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,46 +170,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "edit-mdx:New .mdx file": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d544c4926b245b7d",
   "lastOpenFiles": [
-    "celestia.mdx",
+    "Networks, Services & Tools/chihuahua.md",
+    "Networks, Services & Tools/Celestia.md",
+    "hidden-assets/svg/docs-icon.svg",
+    "hidden-assets/svg/Nicht bestätigt 268654.crdownload",
+    "hidden-assets/svg/medium-icon.svg",
+    "hidden-assets/svg/medium-iconsvg",
+    "hidden-assets/svg/Nicht bestätigt 718039.crdownload",
+    "hidden-assets/svg/github-icon.svg",
+    "hidden-assets/svg/Nicht bestätigt 990556.crdownload",
+    "hidden-assets/svg/discord-icon.svg",
+    "hidden-assets/svg/discord-svgrepo-com.svg",
+    "hidden-assets/svg/Nicht bestätigt 755103.crdownload",
+    "hidden-assets/svg/x-icon.svg",
+    "hidden-assets/svg/x-Icon.svg",
+    "hidden-assets/svg/X-Icon.svg",
+    "hidden-assets/svg/celestia-icon.svg",
+    "hidden-assets/svg/telegram-icon.svg",
+    "hidden-assets/svg/Nicht bestätigt 746907.crdownload",
+    "hidden-assets/svg",
+    "hidden-assets",
+    "Bild.md",
+    "assets/svg",
+    "assets",
+    "Learn Blockchain/Blockchain Basics.md",
     "Learn Blockchain/NFTs und DeFi Introduction.md",
-    "Learn Blockchain/learn.mdx",
     "Learn Blockchain/Smart Contracts.md",
     "Learn Blockchain/Tokenomics & Inflation.md",
     "Learn Blockchain/Hashing & Consensus Mechanisms.md",
-    "Learn Blockchain/Blockchain Basics.md",
-    "research.mdx",
-    "networks.mdx",
-    "learn.mdx",
-    "index.mdx",
-    "Research & Articles/Key Studies/index.mdx",
-    "Research & Articles/Articles",
-    "Research & Articles/Blockchain Scientific Papers",
-    "Networks, Services & Tools",
-    "IT-Security",
-    "celestia-tia-logo.svg",
-    "Networks, Services & Tools/Celestia.md",
-    "Pasted image 20241015105806.png",
-    "Pasted image 20241015105557.png",
-    "Pasted image 20241015105032.png",
-    "Pasted image 20241015105029.png",
     "Networks, Services & Tools/Tendermint Blockhain Services.md",
-    "Networks, Services & Tools/Untitled.md",
-    "chihuahua.jpg",
-    "c4e.jpg",
     "Learning Lab/A dynamic, hands-on space for exploring and experimenting with blockchain concepts..md",
     "IT-Security/Incident Response Planning.md",
     "Research & Articles/Key Studies/The Algorithms.md",
     "Research & Articles/Key Studies/The Staking Mechanics.md",
     "Research/Interoperability.md",
     "Research & Articles/Key Studies/Interoperability.md",
-    "c4e 1.jpg",
-    "assets/networks/c4e.jpg",
-    "assets/networks/chains/source.jpg",
     "Research/The Algorithms.md"
   ]
 }

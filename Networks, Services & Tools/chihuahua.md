@@ -3,14 +3,15 @@
 | Image                                                                                  |
 | -------------------------------------------------------------------------------------- |
 | <img src="/img/chains/chihuahua.jpg" alt="Chihuahua Image" width="100" height="100" /> |
+|                                                                                        |
 
 ## Links
 
-| Platform | Link                                                                           |
-| -------- | ------------------------------------------------------------------------------ |
-| Website  | [https://www.chihuahua.wtf/](https://www.chihuahua.wtf/)                       |
-| Discord  | [https://discord.com/invite/AR38BTh4X8](https://discord.com/invite/AR38BTh4X8) |
-| Twitter  | [https://twitter.com/ChihuahuaChain](https://twitter.com/ChihuahuaChain)       |
+|         | Link                                                                           |
+| ------- | ------------------------------------------------------------------------------ |
+| Website | [https://www.chihuahua.wtf/](https://www.chihuahua.wtf/)                       |
+| Discord | [https://discord.com/invite/AR38BTh4X8](https://discord.com/invite/AR38BTh4X8) |
+| Twitter | [https://twitter.com/ChihuahuaChain](https://twitter.com/ChihuahuaChain)       |
 
 ## Network Metricss
 

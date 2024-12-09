@@ -1,1 +1,12 @@
-{}
+{
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "/",
+  "userIgnoreFilters": [
+    "hidden-assets/",
+    "hidden-assets/svg/"
+  ],
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "foldHeading": false,
+  "foldIndent": false
+}
