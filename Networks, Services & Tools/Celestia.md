@@ -37,9 +37,6 @@
 | gRPC Web             | https://grpc-web.celestia.validatus.com     | https://grpc-web.archive.celestia.validatus.com          |
 | Prometheus           | https://prometheus.celestia.validatus.com   | https://prometheus.archive.celestia.validatus.com        |
 
-
-
-<APITables columns={columns} rows={rows} />
 ## Peering Information
 
 ### Live Peers
