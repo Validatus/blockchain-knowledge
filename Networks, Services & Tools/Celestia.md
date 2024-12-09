@@ -40,7 +40,7 @@
 
 
 <APITables columns={columns} rows={rows} />
-### Peering Information
+## Peering Information
 
 ### Live Peers
 ```
